@@ -23,7 +23,7 @@ This Match-3 game features a variety of special pieces and skills that enhance t
 ## Game Visuals
  - Gameplay Video: https://github.com/user-attachments/assets/7ed18eff-a0b1-490a-8121-d9c0b86ce824
 
--Screenshots
+ - Screenshots
 
 ![StartMenu](https://github.com/user-attachments/assets/768d7799-8855-4c5e-8f84-b195d8cb6ba8)
 ![Screenshot_1](https://github.com/user-attachments/assets/06f84c21-4666-480e-a7a1-35906e9d6242)
